@@ -18,4 +18,4 @@ alias nmap='docker run --rm -it craighurley/nmap'
 
 ## Links
 
--  <https://nmap.org/>
+- <https://nmap.org/>
